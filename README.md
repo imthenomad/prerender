@@ -5,6 +5,12 @@ Prerender is a node server that uses Headless Chrome to render HTML, screenshots
 
 Looking for our PhantomJS Prerender server? [Go to our phantomjs branch](https://github.com/prerender/prerender/tree/phantomjs)
 
+##### The quickest way to UPGRADE prerender on our server:
+
+```bash
+$ cd /srv/prerender && npm update
+```
+
 ##### The quickest way to run your own prerender server:
 
 ```bash
